@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Siddhant Jain</h1>
 <h3 align="center">A passionate Web Developer and Pythonist</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=itssiddhantjain&label=Profile%20views&color=0e75b6&style=flat" alt="itssiddhantjain" /> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=itssiddhantjain&label=Profile%20views&color=0e75b6&style=flat" alt="itssiddhantjain" /> </p> -->
 
 - 🔭 I’m currently learning **Web Development**
 
