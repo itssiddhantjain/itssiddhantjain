@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently learning **Machine Learning**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: www.linkedin.com/in/siddhant-jain-730679208</h3>
 <p align="left">
 </p>
 
