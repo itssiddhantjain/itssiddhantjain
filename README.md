@@ -4,7 +4,7 @@
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=itssiddhantjain&label=Profile%20views&color=0e75b6&style=flat" alt="itssiddhantjain" /> </p> -->
 
 - 🔭 I’m currently learning **Machine Learning**
-- also with moderate level of experience in **Web Development**
+- also with a moderate level of experience in **Web Development**
 
 <h3 align="left">Connect with me: www.linkedin.com/in/siddhant-jain-730679208</h3>
 <p align="left">
