@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, my name is Siddhant Jain </h1>
-<h3 align="center">A passionate Machine Learning Developer and Web developer </h3>
+<h3 align="center">A passionate Machine Learning Engineer and Web developer </h3>
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=itssiddhantjain&label=Profile%20views&color=0e75b6&style=flat" alt="itssiddhantjain" /> </p> -->
 
